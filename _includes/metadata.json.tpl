@@ -9,9 +9,6 @@
             "website": "styles/website.css"
         },
         "pluginsConfig": {
-            "expandable-chapter-small2": {
-                "articlesExpand": true,
-            },
             "fontsettings": {
                 "family": "sans",
                 "size": 2,
@@ -25,7 +22,7 @@
             },
             "search": {},
 
-        
+            {%- include gitbook-sharing.json.tpl -%}
 
             "theme-default": {
                 "showLevel": false,
@@ -37,14 +34,14 @@
                     "print": "styles/print.css",
                     "website": "styles/website.css"
                 }
-            },
+            }
         },
         "theme": "default",
-        "author": ".mad Agency",
+        "author": "Tao He",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
-            "fontFamily": "Inter",
+            "fontFamily": "Arial",
             "paperSize": "a4",
             "chapterMark": "pagebreak",
             "pageBreaksBefore": "/",
