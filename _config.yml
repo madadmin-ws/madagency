@@ -1,10 +1,10 @@
 # Configurations
-title:            .madAgency
-longtitle:        .madAgency
-author:           .mad Agency
-email:            madweb
+title:            .mad Knowledgebase
+longtitle:        Welcome to .mad Knowledgebase
+author:           madagency
+email:            madagency@
 description: >
-  sam.
+  .madagency knowledgebase
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -13,10 +13,16 @@ url:              'https://madadmin-ws.github.io/madagency'
 baseurl:          '/'
 rss:              RSS
 
+# bootstrap: use the remote theme for the site itself
+remote_theme: sighingnow/jekyll-gitbook
+
 toc:
   enabled: true
   h_min: 1
   h_max: 3
+
+# customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
+favicon_path:     /assets/gitbook/images/favicon.ico
 
 # markdown render engine.
 markdown:         kramdown
@@ -30,17 +36,31 @@ kramdown:
   syntax_highlighter_opts:
     guess_lang:           true
 
-markdown_ext:     markdown,mkdown,mkdn,mkd,md
+syntax_highlighter_style: colorful
+
+markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:        /:categories/:year-:month-:day-:title:output_ext
+permalink:                /:categories/:year-:month-:day-:title:output_ext
+
+# Disqus comments
+# disqushandler:            sighingnow
 
 exclude:
   - _drafts
+
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
+
+page_width: 800px
 
 destination:      ./_site
 incremental:      false
 regenerate:       true
 
 plugins:
+  - jekyll-feed
+  - jekyll-readme-index
   - jemoji
