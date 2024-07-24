@@ -1,4 +1,10 @@
 ---
+title: Slack Migration
+author: .mad Agency 
+layout: home
+---
+
+---
 description: 'Phase 1: Internal Brand Communication Migration'
 ---
 
