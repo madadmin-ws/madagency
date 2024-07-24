@@ -25,7 +25,7 @@
             },
             "search": {},
 
-            {%- include gitbook-sharing.json.tpl -%}
+        
 
             "theme-default": {
                 "showLevel": false,
@@ -40,11 +40,11 @@
             },
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": ".mad Agency",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
-            "fontFamily": "Arial",
+            "fontFamily": "Inter",
             "paperSize": "a4",
             "chapterMark": "pagebreak",
             "pageBreaksBefore": "/",
