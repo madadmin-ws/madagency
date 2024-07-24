@@ -2,7 +2,7 @@
 title: Slack Migration
 author: .mad Agency
 date: 2018-01-01
-category: Slack Migration
+category: slack-migration
 layout: post
 ---
 
