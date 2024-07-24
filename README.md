@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to .mad knowledgebase!
+title: .mad knowledgebase!
 permalink: /
 cover: https://madadmin-ws.github.io//madagency/assets/mad.jpg
 --- 
