@@ -1,16 +1,16 @@
 # Configurations
-title:            
-longtitle:        
-author:           
-email:            
+title:            .madAgency
+longtitle:        .madAgency
+author:           .mad Agency
+email:            madweb
 description: >
-.mad Agency Repository
+  Markerless 3D Motion Capture made easy.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://madadmin-ws.github.io/'
-baseurl:          '/madagency/'
+url:              'https://madadmin-ws.github.io/madagency'
+baseurl:          '/'
 rss:              RSS
 
 toc:
