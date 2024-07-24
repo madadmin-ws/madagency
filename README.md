@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jekyll Chapterbook Theme
+title: Welcome to .mad knowledgebase!
 permalink: /
 ---
 
