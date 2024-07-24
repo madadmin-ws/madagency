@@ -44,5 +44,3 @@ regenerate:       true
 
 plugins:
   - jemoji
-  -search-pro
-    
