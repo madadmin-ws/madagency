@@ -2,12 +2,12 @@
 layout: home
 title: Welcome to .mad knowledgebase!
 permalink: /
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
----
-Welcome to .mad knowledgebase!
-
-Repository Note:
-⭐ = Main Category
-📌 = Sub Category
-⌛  = Internal Process
+cover: https://madadmin-ws.github.io//madagency/assets/mad.jpg
+--- 
+ 
+\
+Repository Note:\
+⭐ = Main Category\
+📌 = Sub Category\
+[⌛](https://emojipedia.org/hourglass-done/)  = Internal Process\
 💡 =  Guides and how-tos
