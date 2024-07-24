@@ -17,9 +17,9 @@ baseurl_canonical: https://madadmin-ws.github.io/madagency
 # Set a url to link to a copyright page.
 # Set a start_year to have the copyright render as "start_year - current_year" (if the years are different)
 # Set copyright: false to disable.
-copyright:
+copyright: false
   start_year: 2024
-  url: /book.html
+  url: /index.html
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path: assets/gitbook/images/favicon.ico
@@ -32,7 +32,7 @@ favicon_path: assets/gitbook/images/favicon.ico
 # The book and contents pages need to be made manually.
 # All "url" variables should have a leading slash.
 bookcrumbs:
-  book_url: /book.html
+  book_url: /index.html
   contents_url: /contents.html
   book_icon: assets/gitbook/images/apple-touch-icon-precomposed-152.png
 
@@ -111,9 +111,10 @@ incremental: false
 regenerate: true
 
 plugins:
-#  - jekyll-feed
+  - jekyll-feed
   - jekyll-readme-index
-#  - jemoji
+  - jemoji
+
 
 collections:
   chapters:
