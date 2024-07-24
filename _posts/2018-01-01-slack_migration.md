@@ -23,7 +23,7 @@ Account Managers will create an internal chatroom for each brand. This involves 
 \
 **Sample:**
 
-<figure><img src="https://madadmin-ws.github.io/madagency/.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://madadmin-ws.github.io/madagency/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 This migration is expected to be completed by May 24, 2024.\
 \
