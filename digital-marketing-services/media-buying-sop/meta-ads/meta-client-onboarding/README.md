@@ -1,2 +1,0 @@
-# ⌛ Meta Client Onboarding
-

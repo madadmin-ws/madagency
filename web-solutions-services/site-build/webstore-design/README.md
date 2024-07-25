@@ -1,2 +1,0 @@
-# Webstore Design
-

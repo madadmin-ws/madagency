@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Welcome to .mad knowledgebase!](README.md)
 * [Slack Migration](slack-migration.md)

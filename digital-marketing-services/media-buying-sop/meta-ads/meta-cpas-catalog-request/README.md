@@ -1,2 +1,0 @@
-# ⌛ Meta CPAS Catalog Request
-

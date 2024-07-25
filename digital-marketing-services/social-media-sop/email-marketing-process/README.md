@@ -1,2 +1,0 @@
-# ⌛ Email Marketing Process
-

@@ -1,2 +1,0 @@
-# ⌛ Google Campaign Setup Process
-

@@ -1,2 +1,0 @@
-# ⭐ WooCommerce x Meta
-

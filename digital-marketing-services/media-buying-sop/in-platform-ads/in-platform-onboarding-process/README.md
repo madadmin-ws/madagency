@@ -1,2 +1,0 @@
-# ⌛ In-Platform Onboarding Process
-

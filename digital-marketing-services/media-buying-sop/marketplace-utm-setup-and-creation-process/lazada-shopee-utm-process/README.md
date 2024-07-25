@@ -1,2 +1,0 @@
-# ⌛ Lazada / Shopee UTM Process
-
