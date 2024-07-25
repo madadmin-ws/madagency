@@ -1,10 +1,8 @@
 ---
-title: Slack Migration
-author: .mad Agency
-date: 2018-01-01
-category: slack-migration
-layout: post
+description: 'Phase 1: Internal Brand Communication Migration'
 ---
+
+# Slack Migration
 
 We will be enforcing a Slack migration for the Digital, Web, TikTok, and Creative departments. This will be carried out in four phases. Full migration is expected to be completed by June 30, 2024 where in Plutio integration of slack is also expected to be completed.
 
@@ -23,7 +21,7 @@ Account Managers will create an internal chatroom for each brand. This involves 
 \
 **Sample:**
 
-<figure><img src="https://madadmin-ws.github.io/madagency/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 This migration is expected to be completed by May 24, 2024.\
 \
